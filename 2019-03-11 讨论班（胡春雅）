@@ -1,0 +1,9 @@
+2019-03-11 讨论班-胡春雅
+
+文章：Efficient Zero-Knowledge Arguments for Arithmetic Circuits in the Discrete Log Setting
+链接：https://eprint.iacr.org/2016/263.pdf
+
+Efficient Zero-Knowledge Arguments for Arithmetic Circuits in the Discrete Log Setting是Bootle在2016年做的一个基于离散对数假设的一个public-verification argument
+在crypto18 Bootle把方案转化到标准的SIS问题，构造了一个lattice-based sub-linear的argument。
+
+今天想主要讲一下Bootle构造的Agument是如何把arithmetic circuit归约成一个多项式，并且如何在witness被commit的情况下，构造一个能够被公开验证的多项式。
