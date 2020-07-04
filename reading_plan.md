@@ -1,12 +1,12 @@
-# Subvector Commitment (2020.07.04)
+# Project: Subvector Commitment from Lattice (from 2020.07.04)
 
 SVC是标准commitment的扩展, 有多个重要的应用, 举例: 
 * 用于构造Authenticated Data Structure
 * 用于将IOP编译为SNARK
 
-## 研究内容: 基于格中的困难问题的SVC
+### 研究内容: 基于格中的困难问题的SVC
 
-## 研究计划: 阅读下列文章, 尝试分析构造SVC所需假设的性质, 探索能否基于LWE或者SIS构造
+### 研究计划: 阅读下列文章, 尝试分析构造SVC所需假设的性质, 探索能否基于LWE或者SIS构造
 
 - [ASIACRYPT 2010] Aniket Kate and Gregory M. Zaverucha and Ian Goldberg  
 Constant-Size Commitments to Polynomials and Their Applications  (这篇文章的定义并不严谨细致)
