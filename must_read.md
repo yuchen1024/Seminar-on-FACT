@@ -1,4 +1,20 @@
-# Primitives
+***
+Note: Please try your best to find the full version on ePrint or Sci-Hub
+***
+
+# Books
+
+* Introduction to Modern Cryptography (2nd Eidtion)
+Jonathan Katz and Yehuda Lindell
+
+* Lecture notes by Chris Peikert, Jonathan Katz, Yevgeny Dodis
+
+* Online course by Dan Boneh
+https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/
+
+# Papers
+
+## Primitives
 
 - [ePrint 2020] Alin Tomescu, Ittai Abraham, Vitalik Buterin, Justin Drake, Dankrad Feist, Dmitry Khovratovich  
 Aggregatable Subvector Commitments for Stateless Cryptocurrencies
@@ -27,7 +43,7 @@ Lossy Trapdoor Functions and Their Applications
 - [EUROCRYPT 2002] Ronald Cramer, Victor Shoup
 Universal Hash Proofs and a Paradigm for Adaptive Chosen Ciphertext Secure Public-Key Encryption
 
-# Lattice
+## Lattice
 
 - [STOC 2005] Oded Regev
 On Lattices, Learning with Errors, Random Linear Codes, and Cryptography
@@ -39,7 +55,7 @@ How to Use a Short Basis: Trapdoors for Hard Lattices and New Cryptographic Cons
 Lattice Cryptography for the Internet
 
 
-# Zero-Knowledge Proofs
+## Zero-Knowledge Proofs
 
 - [ePrint 2020] Sergey Gorbunov, Leonid Reyzin, Hoeteck Wee, Zhenfei Zhang  
 Pointproofs: Aggregating Proofs for Multiple Vector Commitments  
