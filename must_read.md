@@ -12,6 +12,10 @@ Jonathan Katz and Yehuda Lindell
 * Online course by Dan Boneh  
 https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/
 
+# Blogs
+
+https://www.higashi.tech/
+
 # Papers
 
 ## Primitives
@@ -45,6 +49,9 @@ Universal Hash Proofs and a Paradigm for Adaptive Chosen Ciphertext Secure Publi
 
 ## Lattice
 
+- [ePrint 2015] Chris Peikert
+A Decade of Lattice-Based Cryptography
+
 - [STOC 2005] Oded Regev  
 On Lattices, Learning with Errors, Random Linear Codes, and Cryptography
 
@@ -66,6 +73,9 @@ Subvector Commitments with Application to Succinct Arguments
 
 - [IEEE S&P 2018] Benedikt Bunz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, and Greg Maxwell  
 Bulletproofs: Short Proofs for Confidential Transactions and More
+
+- [USENIX Security 2016] Irene Giacomelli, Jesper Madsen, Claudio Orlandi
+ZKBoo: Faster Zero-Knowledge for Boolean Circuits
 
 - [STOC 2007] Yuval Ishai, Eyal Kushilevitz, Rafail Ostrosky, Amit Sahai  
 Zero-Knowledge from Secure Multiparty Computation
